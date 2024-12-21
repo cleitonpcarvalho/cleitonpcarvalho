@@ -26,8 +26,8 @@ Atualmente, estou me aprofundando cada vez mais em **inteligência artificial** 
 
 ## 📬 **Como me Encontrar?**
 
-- 🚀 **LinkedIn**: [Cleiton Carvalho](https://www.linkedin.com/in/cleitoncarvalho)
-- 📧 **E-mail**: cleiton@example.com
+- 🚀 **LinkedIn**: [Cleiton Carvalho](https://www.linkedin.com/in/cleiton-carvalho-65987251/)
+- 📧 **E-mail**: cleiton.carvalho@automasoluct.com
 - 🌐 **Portfolio**: [Cleiton.dev](https://www.automasoluct.com)
 
 ## 📚 **Alguns Projetos Legais que Eu Fui Parte**
