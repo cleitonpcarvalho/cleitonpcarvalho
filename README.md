@@ -39,6 +39,10 @@ Atualmente, estou focado no aprendizado e aplicação de Python, desenvolvendo p
 
 ---
 
+![Linha do Tempo](https://raw.githubusercontent.com/cleitonpcarvalho/main/timeline.svg)
+
+---
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
