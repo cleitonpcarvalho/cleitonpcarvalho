@@ -1,5 +1,4 @@
-```md
-<h1 align="center">Cleiton Carvalho 🚀</h1>
+<h1 align="center">Olá, eu sou Cleiton Carvalho! 🚀</h1>
 
 <p align="center">
   <b>Engenheiro de Software | Automação | Machine Learning</b>
@@ -7,43 +6,52 @@
 
 ---
 
-## 📌 Sobre mim
+## 🚀 Sobre mim
 
-Com mais de **11 anos de experiência** em TI, iniciei minha carreira no suporte técnico e desenvolvi forte habilidade em **algoritmos e lógica de programação**. Após uma passagem pelo varejo, percebi a importância da **automação de processos** e retomei minha jornada na programação, focando em **Python, SQL e desenvolvimento de APIs**.
+🔹 Com mais de **11 anos de experiência** em TI, iniciei minha trajetória no suporte técnico e desenvolvi grande habilidade com **algoritmos e lógica de programação**.
 
-Atualmente, atuo como freelancer em **99Freelas, Workana e UpWork**, desenvolvendo soluções em **Flask, Node.js e Machine Learning** para otimizar processos e agregar valor aos negócios.
+🔹 Após uma experiência no varejo, percebi o poder da **programação na automação de processos** e, desde 2023, retomei meus estudos em **Python**.
+
+🔹 Atualmente, desenvolvo projetos de **automação e Machine Learning**, utilizando **Flask, SQL e Node.js** para integrar APIs e otimizar processos.
+
+🔹 Atuo como freelancer em **99Freelas, Workana e UpWork**, sempre buscando inovação e aprendizado contínuo.
+
+📩 **Entre em contato comigo:**
+
+- 📞 WhatsApp: [+55 98 99178-7180](https://wa.me/5598991787180)
+- 📧 Email: [cleiton.engsoft@gmail.com](mailto:cleiton.engsoft@gmail.com)
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleitoncarvalho&theme=tokyonight&langs_count=8&layout=compact" alt="Linguagens Mais Usadas" width="48%"/>
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,nodejs,sql,mongodb,postgres,docker,bootstrap" alt="Tech Stack" />
 </div>
 
-### 🔥 Expertise em Tecnologias
+---
 
-```mermaid
-graph LR;
-    Python(⚡ Python - Expert) --> Node.js(Node.js - Avançado);
-    Node.js --> SQL(SQL - Avançado);
-    SQL --> Flask(Flask - Intermediário);
-    Flask --> MongoDB(MongoDB - Intermediário);
-    MongoDB --> Docker(Docker - Básico);
-    Docker --> Bootstrap(Bootstrap - Básico);
-```
+## 📊 GitHub Estatísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cleitoncarvalho&show_icons=true&theme=tokyonight&hide=prs" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cleitoncarvalho&theme=tokyonight" alt="GitHub Streak" width="48%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleitoncarvalho&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas" width="48%"/>
+</div>
 
 ---
 
-## 🚀 Projetos
+## 💡 Projetos em Destaque
 
-🔹 [Automação com Python](https://github.com/cleitoncarvalho/projeto-automacao)
-🔹 [API com Flask e SQL](https://github.com/cleitoncarvalho/api-flask-sql)
-🔹 [Machine Learning](https://github.com/cleitoncarvalho/ml-previsoes)
+🔹 [Projeto de Automação com Python](https://github.com/cleitoncarvalho/projeto-automacao)
+
+🔹 [API Restful com Flask e SQL](https://github.com/cleitoncarvalho/api-flask-sql)
+
+🔹 [Modelo de Machine Learning para Previsões](https://github.com/cleitoncarvalho/ml-previsoes)
 
 ---
 
-## 📩 Contato
-
-📞 [WhatsApp](https://wa.me/5598991787180)  |  📧 [Email](mailto:cleiton.engsoft@gmail.com)
-```
+### 📌 "A tecnologia deve servir para facilitar a vida, e estou aqui para tornar isso possível!" ✨
