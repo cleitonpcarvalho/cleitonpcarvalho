@@ -40,53 +40,7 @@ Atualmente, estou focado no aprendizado e aplicação de Python, desenvolvendo p
 ---
 ### 📈 Trajetória Profissional
 
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-    <style>
-        text { font-family: Arial, sans-serif; fill: #000000; font-size: 16px; }
-        .year { font-weight: bold; fill: #105edd; font-size: 18px; }
-        .line { stroke: #105edd; stroke-width: 3; opacity: 0.8; }
-        .circle { fill: #105edd; stroke: black; stroke-width: 2; }
-        .background { fill: #ffffff; }
-    </style>
-    
-    <rect class="background" width="800" height="600"/>
-    
-    <line class="line" x1="100" y1="50" x2="100" y2="550" />
-    
-    <circle class="circle" cx="100" cy="50" r="8" />
-    <text class="year" x="120" y="55">2009</text>
-    <text x="120" y="75">Iniciei na TI com Suporte de Redes</text>
-    
-    <circle class="circle" cx="100" cy="120" r="8" />
-    <text class="year" x="120" y="125">2010 - 2012</text>
-    <text x="120" y="145">Empreendi no ramo de distribuição de internet</text>
-    
-    <circle class="circle" cx="100" cy="190" r="8" />
-    <text class="year" x="120" y="195">2011</text>
-    <text x="120" y="215">Iniciei a faculdade de Sistemas de Informação</text>
-    
-    <circle class="circle" cx="100" cy="260" r="8" />
-    <text class="year" x="120" y="265">2012 - 2020</text>
-    <text x="120" y="285">Trabalhei como técnico de suporte no TJ-MA</text>
-    
-    <circle class="circle" cx="100" cy="330" r="8" />
-    <text class="year" x="120" y="335">2020 - 2024</text>
-    <text x="120" y="355">Empreendi no varejo de suplementos</text>
-    
-    <circle class="circle" cx="100" cy="400" r="8" />
-    <text class="year" x="120" y="405">2023</text>
-    <text x="120" y="425">Retornei aos estudos na programação (Python)</text>
-    
-    <circle class="circle" cx="100" cy="470" r="8" />
-    <text class="year" x="120" y="475">2024</text>
-    <text x="120" y="495">Iniciei Bacharelado em Engenharia de Software</text>
-    
-    <circle class="circle" cx="100" cy="540" r="8" />
-    <text class="year" x="120" y="545">2025</text>
-    <text x="120" y="565">Trabalho como freelancer em 99Freelas, Workana e UpWork</text>
-</svg>
-
+![Linha do Tempo](https://raw.githubusercontent.com/cleitonpcarvalho/cleitonpcarvalho/main/timeline.svg)
 
 ---
 
