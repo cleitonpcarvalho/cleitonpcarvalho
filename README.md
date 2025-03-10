@@ -45,7 +45,7 @@ Atualmente, estou focado no aprendizado e aplicação de Python, desenvolvendo p
     align="left" 
     alt="Python"
     title="Python" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -53,7 +53,7 @@ Atualmente, estou focado no aprendizado e aplicação de Python, desenvolvendo p
     align="left" 
     alt="Automação" 
     title="Automação"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
 />
@@ -61,7 +61,7 @@ Atualmente, estou focado no aprendizado e aplicação de Python, desenvolvendo p
     align="left" 
     alt="Machine Learning" 
     title="Machine Learning"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" 
 />
@@ -69,7 +69,7 @@ Atualmente, estou focado no aprendizado e aplicação de Python, desenvolvendo p
     align="left" 
     alt="Flask"
     title="Flask" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" 
 />
@@ -77,7 +77,7 @@ Atualmente, estou focado no aprendizado e aplicação de Python, desenvolvendo p
     align="left" 
     alt="SQL" 
     title="SQL"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
@@ -85,7 +85,7 @@ Atualmente, estou focado no aprendizado e aplicação de Python, desenvolvendo p
     align="left" 
     alt="Node.js"
     title="Node.js" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
@@ -93,7 +93,7 @@ Atualmente, estou focado no aprendizado e aplicação de Python, desenvolvendo p
     align="left" 
     alt="API Restful"
     title="API Restful" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" 
 />
@@ -101,7 +101,7 @@ Atualmente, estou focado no aprendizado e aplicação de Python, desenvolvendo p
     align="left" 
     alt="MongoDB" 
     title="MongoDB"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
 />
@@ -109,7 +109,7 @@ Atualmente, estou focado no aprendizado e aplicação de Python, desenvolvendo p
     align="left" 
     alt="Docker"
     title="Docker" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
@@ -117,7 +117,7 @@ Atualmente, estou focado no aprendizado e aplicação de Python, desenvolvendo p
     align="left" 
     alt="PostgreSQL" 
     title="PostgreSQL"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
@@ -125,10 +125,12 @@ Atualmente, estou focado no aprendizado e aplicação de Python, desenvolvendo p
     align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
+
+
 
 
 <br/>
