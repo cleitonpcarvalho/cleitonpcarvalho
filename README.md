@@ -149,7 +149,8 @@ Atualmente, estou focado no aprendizado e aplicação de Python, desenvolvendo p
         align="left" 
         alt="GitHub Stats" 
         height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleitonpcarvalho&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cleitonpcarvalho&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
     />
+
 
 </p>
