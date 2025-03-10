@@ -40,7 +40,7 @@ Atualmente, estou focado no aprendizado e aplicação de Python, desenvolvendo p
 ---
 ### 📈 Trajetória Profissional
 
-![Linha do Tempo](https://raw.githubusercontent.com/cleitonpcarvalho/cleitonpcarvalho/main/timeline.svg?raw=true)
+![Linha do Tempo](https://raw.githubusercontent.com/cleitonpcarvalho/cleitonpcarvalho/main/timeline.png)
 
 ---
 
